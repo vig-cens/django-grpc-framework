@@ -9,7 +9,7 @@ with open('django_grpc_framework/__init__.py', 'rb') as f:
 
 setup(
     name='djangogrpcframework',
-    version=version,
+    version="1.0",
     description='gRPC for Django.',
     long_description=open('README.rst', 'r', encoding='utf-8').read(),
     url='https://github.com/fengsp/django-grpc-framework',
